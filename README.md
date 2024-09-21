@@ -1,4 +1,4 @@
-This is my MERN assignment project,it is divided in frontend and backend
+This is my MERN assignment project,it is divided in client and server
 
 ## Tasks
 
